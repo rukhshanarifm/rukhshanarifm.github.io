@@ -11,21 +11,12 @@ const SideBar = () => (
       <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="Profile" />
       </Link>
-      <header>
-        <h2>Rukhshan Arif Mian</h2>
         <p>
-          <a href="mailto:rukhshanarifm@gmail.com">rukhshanarifm@gmail.com</a>
-        </p>
-      </header>
-      <p>
-        Hi, I&apos;m Rukhshan. I am a{' '}
-        <a href="https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp">UChicago MSCAPP </a>
-        graduate. I help organizations assess and optimize
-        their data capacity for better decision-making.
-        Most recently, I worked with the Bloomberg Center for Government Excellence (GovEx),
-        supporting data-driven initiatives for local governments in the United States.
+        At Your Data Buddies (YDB), we help organizations make meaningful decisions with their data. 
+        Whether it’s crafting a data roadmap, creating dashboards, setting up data systems, or moving to the cloud, we make data simpler and more useful. 
+        If you’re looking for support in building data capacity, whether through strategy, dashboards, or infrastructure, let’s connect!
       </p>
-      <ul className="actions">
+      {/* <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? (
             <Link to="/resume" className="button">
@@ -37,7 +28,7 @@ const SideBar = () => (
             </Link>
           )}
         </li>
-      </ul>
+      </ul> */}
     </section>
 
     <section id="footer">

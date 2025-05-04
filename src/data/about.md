@@ -1,35 +1,8 @@
-# Intro
-I’m Rukhshan, a data consultant based in Lahore, specializing in leveraging quantitative tools to uncover insights and drive decision-making across diverse sectors. My work includes partnering with federal, state, and local government agencies in the U.S. to enhance their data capabilities. I thrive in collaborative environments, bringing a mix of technical expertise, strategic thinking, and clear communication to every project. Passionate about mission-driven work, I’m always eager to tackle projects that create meaningful impact.
+# Who are we?
+At Your Data Buddies (YDB), we help organizations make meaningful decisions with their data. Whether it’s crafting a data roadmap, creating dashboards, setting up data systems, or moving to the cloud, we make data simpler and more useful. If you’re looking for support in building data capacity, whether through strategy, dashboards, or infrastructure, let’s connect!
 
-# Background
-Born and raised in Lahore, I earned my undergraduate degree from Lahore University of Management Sciences (LUMS) before moving to the United States for graduate studies at the University of Chicago. From 2019 to 2024, I lived and worked in Chicago and New York, gaining extensive experience in helping organizations build and scale their data infrastructure.
-
-In 2024, I returned to Lahore and am now looking to collaborate with organizations eager to leverage data for meaningful impact.
-
-# I Like
-- Soccer/Football
-- [Running](https://instagram.com/ram.runs.etc)
-- Hiking
-- [Photography](https://instagram.com/rukhshan)
-
-# Travel / Geography
-Favorite Cities: 
-- Lahore (naturally)
-- New York, NY
-- Boulder, CO
-- Chicago, IL
-- London, England
-
-Places I'd love to visit: 
-- Switzerland
-- Mexico
-- Spain
-- Peru
-- Nepal
-- Portugal
-- Malaysia
-
-# 2 truths and a lie
-- I have been rock climbing 
-- I have met a famous Hollywood actress
-- I have driven for 15 hours in one day
+# Services Offered
+- **Data Strategy**: We help organizations develop a clear data strategy that aligns with their goals and objectives. This includes identifying key performance indicators (KPIs), defining data governance policies, and creating a roadmap for data initiatives.
+- **Data Engineering**: We design and implement data pipelines that ensure data is collected, stored, and processed efficiently. This includes ETL (Extract, Transform, Load) processes, data warehousing, and data integration.
+- **Data Visualization**: We create interactive dashboards and reports that help organizations visualize their data and gain insights. This includes using tools like Tableau, Power BI, and Looker.
+- **Data Science**: We apply advanced analytics and machine learning techniques to help organizations extract insights from their data. This includes predictive modeling, clustering, and natural language processing.

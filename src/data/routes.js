@@ -1,16 +1,12 @@
 const routes = [
   {
     index: true,
-    label: 'Rukhshan Arif Mian',
+    label: 'Your Data Buddies',
     path: '/',
   },
   {
     label: 'About',
     path: '/about',
-  },
-  {
-    label: 'Resume',
-    path: '/resume',
   },
   {
     label: 'Projects',

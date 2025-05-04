@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Rukhshan Arif Mian's personal website. Lahore based UChicago graduate, "
+      "Your Data Buddies"
       + ''
     }
   >

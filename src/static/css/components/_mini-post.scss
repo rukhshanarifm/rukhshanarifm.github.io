@@ -44,7 +44,7 @@
   @include vendor("display", "flex");
   @include vendor("flex-direction", "column");
   background: _palette(bg);
-  border: solid 1px _palette(border);
+  // border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);
 
   .image {
@@ -68,8 +68,8 @@
 
   header {
     z-index: 2;
-    @include padding(1.25em, 1.25em, (0, 3em, 0, 0));
-    min-height: 4em;
+    // @include padding(1.25em, (0, 3em, 0, 0));
+    min-height: 1em;
     position: relative;
     @include vendor("flex-grow", "1");
 

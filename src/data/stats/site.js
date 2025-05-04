@@ -8,7 +8,7 @@ const data = [
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/rukhshanarifm/personal-site/commits',
+    link: 'https://github.com/rukhshanarifm/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
 ];
