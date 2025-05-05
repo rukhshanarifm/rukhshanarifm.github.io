@@ -12,10 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="Profile" />
       </Link>
         <p>
-        At Your Data Buddies (YDB), we help organizations make meaningful decisions with their data. 
-        Whether it’s crafting a data roadmap, creating dashboards, setting up data systems, or moving to the cloud, we make data simpler and more useful. 
-        If you’re looking for support in building data capacity, whether through strategy, dashboards, or infrastructure, let’s connect!
-      </p>
+        At Your Data Buddies (YDB), we help organizations make meaningful decisions with their data. Whether it’s crafting a data roadmap, creating dashboards, setting up data systems, or moving to the cloud, we make data simpler and more useful. If you’re looking for support in building data capacity, whether through strategy, dashboards, or infrastructure, let’s connect! .  </p>
       {/* <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? (
