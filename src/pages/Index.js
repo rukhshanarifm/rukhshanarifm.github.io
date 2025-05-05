@@ -30,7 +30,7 @@ const Index = () => (
         <li><strong>Training & Capacity Building</strong>: We provide tailored training to help your team develop a strong data mindset and enhance their analytical skills. Whether it’s teaching data visualization, strategy, or engineering best practices, we empower organizations to become more self-sufficient in handling their data.</li>
       </ul>
 
-      <h3>Why Choose Us?</h3>
+      <h3>Why Choose Us? Hello</h3>
       <ul>
         <li>Get the right expertise for your data needs: efficient pipelines, accurate insights, and clear visualizations. We turn raw data into real impact.</li>
         <li>We adapt to your needs, ensuring a tailored approach that fits your unique data challenges and goals.</li>
