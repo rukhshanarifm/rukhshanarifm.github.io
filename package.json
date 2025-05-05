@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://rukhshanarifm.github.io/about",
+  "homepage": "https://rukhshanarifm.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rukhshanarifm/about.git"
+    "url": "https://github.com/rukhshanarifm.git"
   },
   "engines": {
     "node": ">=16.x"
